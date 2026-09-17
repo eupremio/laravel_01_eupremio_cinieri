@@ -1,1 +1,5 @@
-//
+import "../css/app.css"
+import "../css/homepage.css"
+import "../css/heroSection.css"
+import "../css/article.css"
+import "../css/navbar.css"

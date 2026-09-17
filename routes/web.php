@@ -6,10 +6,10 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/pagina1', function () {
-    return view('pagina1');
+Route::get('/flessioni', function () {
+    return view('flessioni');
 });
 
-Route::get('/pagina2', function () {
-    return view('pagina2');
+Route::get('/trazzioni', function () {
+    return view('trazzioni');
 });
